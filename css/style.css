@@ -1,0 +1,37 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+}
+
+.principal{
+    
+}
+
+.card *{
+    max-width: 300px;
+    text-align: center;
+
+}
+
+.card h1{
+    margin: 50px 20px;
+    border: solid 2px purple;
+    border-radius: 20px;
+    width: 100px;
+    box-sizing: border-box;
+    height: 90px;
+}
+
+.card p{
+
+}
+
+.card img{
+    position: relative;
+    top: 10px;
+    left: 300px;
+}
